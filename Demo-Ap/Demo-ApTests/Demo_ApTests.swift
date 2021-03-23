@@ -1,14 +1,14 @@
 //
-//  DemoAppTests.swift
-//  DemoAppTests
+//  Demo_ApTests.swift
+//  Demo-ApTests
 //
 //  Created by PCQ158 on 23/03/21.
 //
 
 import XCTest
-@testable import DemoApp
+@testable import Demo_Ap
 
-class DemoAppTests: XCTestCase {
+class Demo_ApTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
