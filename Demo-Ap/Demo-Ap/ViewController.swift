@@ -9,6 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //MARK:- Outlets -
+    @IBOutlet weak var welcomeLabel: UILabel!
+    
     //MARK:- Life cycle Methods -
     override func viewDidLoad() {
         super.viewDidLoad()
